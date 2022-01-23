@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <br>
-    <h3 align="center">I'm <a href="https://github.com/azuryceo">Samuel</a>.<br>I'm a Web Developer by ❤️‍🔥 n' 👻.</h3>
+    <h3 align="center">I'm Samuel.<br>I'm a Web Developer by ❤️‍🔥 n' 👻.</h3>
     <br>
     <br>
     <p align="center">
