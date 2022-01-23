@@ -1,6 +1,7 @@
 <p align="center">
   <br>
   <br>
+  <img width="160" height="160" src="https://raw.githubusercontent.com/azuryceo/azuryceo/current/ez.png" alt="pepe ez" />
     <h3 align="center">I'm Samuel.<br>I'm a Web Developer by ❤️‍🔥 n' 👻.</h3>
     <br>
     <br>
